@@ -1,4 +1,4 @@
-click==7.1.2
+click
 Flask==2.2.2
 itsdangerous==2.2.0
 Werkzeug==2.2.2
